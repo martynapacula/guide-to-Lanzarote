@@ -45,3 +45,20 @@
     margin-bottom: 30px;
 
 }
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+.dan-front {
+    text-shadow: -1px 0 20px white, 0 1px white, 1px 0 white, 0 -1px;
+}
+
+.dan-front-text {
+    font-size: 30px;
+    font-weight: 900;
+    text-shadow: -1px 0 20px white, 0 1px white, 1px 0 white, 0 -1px;
+}
