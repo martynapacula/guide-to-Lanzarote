@@ -3,3 +3,45 @@
 .bg-light {
     background-color: rgb(223, 169, 118)!important;
 }
+
+/*-----------background-----------*/
+
+.callout-container {
+
+
+    background: url(https://www.globalhoppers.co.uk/06th-dec-top-deal-ace);
+    background-repeat: no-repeat;
+    background-position: center;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+    padding-top: 100px;
+    background-attachment:fixed;
+    min-height: 620px;
+}
+
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.jumbotron {
+    background-color: transparent;
+    padding: 0;
+    margin: 0px;
+
+}
+
+.jumbotron h1 {
+    color: Black;
+    font-weight: bold;
+    margin-bottom: 30px;
+
+}
