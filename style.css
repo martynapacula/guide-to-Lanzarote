@@ -9,7 +9,7 @@
 .callout-container {
 
 
-    background: url(https://i.pinimg.com/564x/00/46/f4/0046f4e840f1d14a8c83b51ba5bd962b.jpg);
+    background: url(https://www.oliverstravels.com/blog/wp-content/uploads/2017/09/Lanzarote-header.jpg);
     background-repeat: no-repeat;
     background-position: center;
     -moz-background-size: cover;
@@ -93,7 +93,7 @@
 
 
 .bg-about {
-    background-color: rgb(252, 208, 126);
+    background-color: rgb(245, 218, 167);
 }
 
 .text-about {
@@ -102,6 +102,21 @@
     font-size: 30px;
 
 }
+
+/*--------------PopularDestinations------*/
+
+.popular-heading {
+    text-align:center;
+    padding-top: 50px;
+    font-size: 30px;
+}
+
+.bg-popular {
+    background-color: rgb(245, 218, 167);
+}
+
+
+
 
 /*-----------Footer-----------*/
 
@@ -135,8 +150,8 @@ a {
 .logo {
     display: inline-block;
 
-    background-color: rgb(195, 195, 195);
-    color: #8F8F8F;
+    background-color: rgb(167, 112, 61);
+    color: rgb(7, 7, 7);
     width: 41px;
     height: 41px;
     padding: 20px 0;
