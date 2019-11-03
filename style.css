@@ -62,3 +62,35 @@
     font-weight: 900;
     text-shadow: -1px 0 20px white, 0 1px white, 1px 0 white, 0 -1px;
 }
+
+/*-----------About Us-----------*/
+
+.about-position {
+     display: inline-table;
+     text-align: center;
+    padding-left: 20px;
+}
+
+
+
+
+.img-about {
+    vertical-align: middle;
+    border-style: none;
+    height: auto;
+    border-radius: 25px;
+    width: 30%;
+}
+
+
+
+.bg-about {
+    background-color: #F0F2F3;
+}
+
+.text-about {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 30px;
+
+}
