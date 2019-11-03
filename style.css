@@ -102,3 +102,57 @@
     font-size: 30px;
 
 }
+
+/*-----------Footer-----------*/
+
+.footer-back{
+    background-color:rgb(223, 169, 118)!important;
+}
+
+.container-footer {
+  alignment-baseline: middle;
+}
+
+footer {
+    border-color: transparent;
+    text-align: center;
+}
+
+.foot {
+    margin-bottom: 20px;
+    padding-top: 20px;
+}
+
+a {
+    padding: 5px 15px 5px 10px;
+    background-color: transparent;
+}
+
+.alignment {
+    line-height: 2px;
+}
+
+.logo {
+    display: inline-block;
+
+    background-color: rgb(195, 195, 195);
+    color: #8F8F8F;
+    width: 41px;
+    height: 41px;
+    padding: 20px 0;
+    border-radius: 50%;
+    font-size: 28px;
+    text-align: center;
+    vertical-align: middle;
+    transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -webkit-transition: all .3s ease-in-out;
+    margin-top: 2.5px;
+    margin-bottom: 2.5px;
+
+}
+
+logo:hover {
+    color: #564F6F;
+
+}
