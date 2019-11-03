@@ -65,6 +65,14 @@
 
 /*-----------About Us-----------*/
 
+.heading-about {
+    text-align:center
+}
+
+.heading-about {
+    font-family:cursive
+}
+
 .about-position {
      display: inline-table;
      text-align: center;
