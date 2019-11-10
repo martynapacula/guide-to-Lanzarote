@@ -171,3 +171,9 @@ logo:hover {
     color: #564F6F;
 
 }
+
+/*-----------map-----------*/
+#map {
+        height: 400px;
+    width: auto;
+      }
