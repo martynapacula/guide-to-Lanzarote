@@ -23,7 +23,7 @@ var map;
             content: '<h1>La Geria</h1>'
         },
         {
-            coords: { lat: 29.0223729, lng: ,-13.7951816},
+            coords: { lat: 29.0223729, lng: -13.7951816},
             content: '<h1>National Park Timanfaya</h1>'
         },
          {
@@ -39,7 +39,7 @@ var map;
             content: '<h1>Los Helechos Viewpoint </h1>'
         },
         {
-            coords: { lat: 29.08052, lng: -13.4785472,17 },
+            coords: { lat: 29.08052, lng: -13.4785472},
             content: '<h1>Jardin de Cactus</h1>'
         },
         {
@@ -77,5 +77,5 @@ var map;
  
 
 
-      }
+      
 
