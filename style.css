@@ -99,6 +99,7 @@
 .text-about {
     text-align: center;
     padding-top: 50px;
+    padding-bottom: 50px;
     font-size: 30px;
 
 }
@@ -108,12 +109,15 @@
 .popular-heading {
     text-align:center;
     padding-top: 50px;
+    padding-bottom:50px;
     font-size: 30px;
 }
 
 .bg-popular {
     background-color: rgb(245, 218, 167);
 }
+
+/*--------------Weather------*/
 
 
 

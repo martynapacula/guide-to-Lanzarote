@@ -9,7 +9,6 @@ var map;
 
         //map markers
     var markers = new google.maps.Marker({
-     position:{lat:29.1579997, lng:-13.441186},
      map:map
     
 });
