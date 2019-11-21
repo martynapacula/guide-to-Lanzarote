@@ -66,12 +66,11 @@
 /*-----------About Us-----------*/
 
 .heading-about {
-    text-align:center
+    text-align:center;
+    font-family:cursive;
+    padding-top:30px;
 }
 
-.heading-about {
-    font-family:cursive
-}
 
 .about-position {
      display: inline-table;
@@ -115,6 +114,15 @@
 
 .bg-popular {
     background-color: rgb(245, 218, 167);
+}
+
+.carousel-inner {
+    display: block;
+    width: 80%;
+    overflow: hidden;
+    margin: auto;
+    padding-top: 50px;
+    
 }
 
 /*--------------Weather------*/
