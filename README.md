@@ -7,7 +7,7 @@ This website is intended to be used as a tool for planning perfect holidays as i
 
 Please find a live demo of Visit Lanzarote website below:
 
-xxxxxxx
+https://martynapacula.github.io/guide-to-Lanzarote/.
 
 # UX
 
