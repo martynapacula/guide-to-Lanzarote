@@ -1,4 +1,4 @@
-#Visit Lanzarote
+# Visit Lanzarote
 
 The website that I have created is my second milestone project at the Code Institute.
 The purpose of this website is to provide basic information about the most exicitng and popular places one should visit in the Lanzarote island. 
@@ -9,7 +9,7 @@ Please find a live demo of Visit Lanzarote website below:
 
 xxxxxxx
 
-#UX
+# UX
 
 The aim of this website was to provide an instant and useful information for people that are planning to visit Lanzarote island.
 This website contains many beautiful pictrues from the island that hopefully will inspire people to travel to Lanzarote. 
@@ -25,39 +25,39 @@ also by clicking on the weather section this will lead the user to a dedicated w
 
 A user can click on the icons located in the footer which lead them to the website asociated with the icon. 
 
-#Features
+# Features
 
-##Home page 
+## Home page 
 
 The home page is made in such a way to encourage the person that is viewing this website to visit lanzarote.
 The heading is explaining the main purpose of the website- plaining your holidays. 
 There is a beautiful image of what Lanzarote can offer, such as sandy beaches, lava rocks and volcanos. 
 
 
-##About Us
+## About Us
 About us section is briefly mentioning the advantages of the Lanzarote island.
 There is a beautiful picture of dorment volcanoes in this section highlighting unusual scenery of the island you will never fins anywhere else.  
 
 
 
-##Popular destinations
+## Popular destinations
 
 Popular destinations section educated the visitor of the website on where are the worth to see places situated.
 Clicking on the camera icon the user can know the name of the place. 
 Underneath,  there is a picture of every place that is marked on the map with a brief description. 
 
-##Weather
+## Weather
 Weather section contains information on current weather in Lanzarote for a week.
 By clicking on this weather section the user is taked to https://forecast7.com/en/28d04n15d58/lanzarote/ website which displays more information on the weather in Lanzarote that is very useful in planning your holidays. 
 
 
-##Footer
+## Footer
 Footer contains icons that upon clicking take the user to social media websites. 
 
 The addition features that might be added in the future would be the ability to fill in a form in order to book a day trip in Laznarote. 
 Also information on the hotels and flights related to the island would we displayed. 
 
-#Technologies used
+# Technologies used
 
 HTML: HTML was used to create a website design and layout.
 
@@ -69,7 +69,7 @@ Font Awesome: Font Awesome was used for social media websites where Visit Lanzar
 
 Google maps APIs
 
-#Testing
+# Testing
 
 The website was continuously tested for the responsiveness. The layout was tested on how it will look on the desktop, tablet and a mobile phone.
 
@@ -81,18 +81,18 @@ The functionality of the button,navbar and social media footer logos was tested.
 
 The website was tested on the Responsinator to ensure good working website.
 
-#Device testing:
+# Device testing:
 This website was tested on the following devices:
 
 Samsung galaxy s9 and s5 Samsung Tablet A Huawei p30 Toshiba Satellite laptop
 
 
-#Deployment
+# Deployment
 Github was used to deploy my website as it is free and quite a popular tool among developers. I was also introduced to Github in my previous modules therefore I was the most confortable in using it.
 
 I used the following guide to walk me throught the steps required to deploy a website:https://www.codecademy.com/articles/f1-u3-github-pages
 
-#Credits
+# Credits
 
 For further information on building a website using HTML and CSS https://www.w3schools.com/ and https://stackoverflow.com/ was used.
 
